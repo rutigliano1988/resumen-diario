@@ -1,0 +1,7 @@
+{
+  "name": "resumen-diario",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Resumen diario de proyectos (Notion) enviado por Telegram",
+  "engines": { "node": ">=18" }
+}
